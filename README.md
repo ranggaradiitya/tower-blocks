@@ -2,7 +2,7 @@
 
 ## Demo
 
-[Tower Blocks Demo](demo_link)
+[Tower Blocks Demo](https://ranggaradiitya.github.io/tower-blocks/)
 
 ## Description
 
